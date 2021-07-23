@@ -7,6 +7,6 @@ public class MeusExercícios02 {
         String queroMasToSemGrana = "Vou juntar grana para o mês que vem";
         String resultado = toBemDeGrana >= 1000  ? queroUmaFatiadoraDeFrios : queroMasToSemGrana;
         System.out.println(resultado);
-
+ 
     }
 }
